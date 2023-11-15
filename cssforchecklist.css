@@ -1,0 +1,51 @@
+body{
+    background-color:#4b0082;
+    margin-left:50px;
+    margin-top:50px;
+    
+}
+div{
+    background-color:white;
+    border:4px solid black;
+    font-size:40px;
+
+}
+h1{
+    color:white;
+    font-size:100px;
+}
+figure{
+    float:right;
+    margin-left: 1em;
+}
+.horizontal-line{
+    color:#4b0082;
+    font-family:'Times New Roman', Times, serif;
+    font-size:140%;
+    border:none;
+    border-top: 3px solid white;
+    text-align: center;
+    margin-top: 50px ;
+    width: auto;
+    background-color:white;
+    
+    }
+#table{
+    
+        font-family:'Times New Roman', Times, serif ;
+        font-size: 130% ;
+        text-align:left;
+        color:#4b0082 ;
+        background-color: white;
+}
+.small{
+    height:70%;
+    width:90%;
+}
+#idk{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 130% ;
+    text-align:center;
+    background-color:white;
+    color:#4b0082 ;
+}
